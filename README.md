@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg?style=flat-square)](http://makeapullrequest.com)
 
 <h2 align="center">
-    Projeto GIT
+    Projeto ANC for all devices
 </h2>
 
 <br>
