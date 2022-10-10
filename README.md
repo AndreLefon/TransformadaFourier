@@ -59,4 +59,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 <h3 align="center">Desenvolvido por André Lefon</h3>
 
-<i> se um dia fui triste não me lembro </i>
+<i> Ps: se um dia fui triste não me lembro </i>
